@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Simulation
 |  |
