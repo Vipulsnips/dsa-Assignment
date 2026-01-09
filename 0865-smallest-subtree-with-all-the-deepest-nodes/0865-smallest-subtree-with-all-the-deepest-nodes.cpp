@@ -12,66 +12,18 @@
  */
 class Solution {
 public:
-    int maxm = INT_MAX;
-    TreeNode* ans = nullptr;
-
-    pair<int,int> check(TreeNode* root, set<TreeNode*>& s) {
-        if (!root) return {0, 0};
-
-        auto left  = check(root->left, s);
-        auto right = check(root->right, s);
-
-        int cnt  = left.first + right.first;
-        int size = left.second + right.second;
-
-        if (s.find(root) != s.end()) cnt++;
-        size++;
-
-        return {cnt, size};
-    }
-
-    void dfs(TreeNode* root, set<TreeNode*>& s) {
-        if (!root) return;
-
-        pair<int,int> temp = check(root, s);
-
-        if (temp.first == (int)s.size() && temp.second < maxm) {
-            maxm = temp.second;
-            ans = root;
+    pair<int,TreeNode *> check(TreeNode* root) {
+        if (!root) return {0, NULL};
+        auto left  = check(root->left);
+        auto right = check(root->right);
+        if(left.first > right.first) {
+            return {left.first +1 ,left.second};
         }
-
-        dfs(root->left, s);
-        dfs(root->right, s);
+        else if(left.first < right.first) return{right.first+1 ,right.second};
+        else return{left.first +1 , root};
     }
-
-    void solve(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-
-        set<TreeNode*> s;
-
-        while (!q.empty()) {
-            set<TreeNode*> temp;
-            int size = q.size();
-
-            while (size--) {
-                TreeNode* curr = q.front();
-                q.pop();
-
-                temp.insert(curr);
-
-                if (curr->left) q.push(curr->left);
-                if (curr->right) q.push(curr->right);
-            }
-            s = temp; // deepest level nodes
-        }
-
-        dfs(root, s);
-    }
-
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        ans = root;
-        solve(root);
+        auto ans = check(root).second;
         return ans;
     }
 };
