@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3454-separate-squares-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3454-separate-squares-ii) |
 | [3531-count-covered-buildings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Stack
 |  |
 | ------- |
