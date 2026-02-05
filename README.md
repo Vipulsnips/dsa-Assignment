@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1339-maximum-product-of-splitted-binary-tree) |
