@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0210-course-schedule-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
