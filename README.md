@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0023-merge-k-sorted-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
