@@ -374,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1382-balance-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
