@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1390-four-divisors) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
