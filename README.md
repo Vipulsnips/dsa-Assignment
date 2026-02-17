@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
 |  |
 | ------- |
