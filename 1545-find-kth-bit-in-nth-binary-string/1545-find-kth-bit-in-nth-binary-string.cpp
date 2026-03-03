@@ -1,16 +1,17 @@
 class Solution {
 public:
-    char findKthBit(int n, int k) {
-        string a="0";
-        while(a.size()<k){
-            int temp=a.size()-1;
-            a+='1';
-            while(temp>=0){
-                if(a[temp]== '1') a+='0';
-                else a+='1';
-                temp--;
-            }
+    char solve(int n ,int k){
+        if(n==1) return '0';
+        int length= (1<<n)-1;
+        int mid= (length+1)/2;
+        if(k==mid) return '1';
+        if(k<mid) return solve(n-1,k);
+        else{
+            char ans=solve(n-1,length-k+1);
+            return ans=='0'?'1':'0';
         }
-        return a[k-1];
+    }
+    char findKthBit(int n, int k) {
+        return solve(n,k);
     }
 };
