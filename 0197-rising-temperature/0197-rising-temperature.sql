@@ -8,6 +8,7 @@ from
     Weather as w
 join 
     Weather as ww
+on ww.recordDate=subdate(w.recordDate,1)
 ) as newt
 where
-    newd=subdate(recordDate,1) && temperature>newt
+     temperature>newt
