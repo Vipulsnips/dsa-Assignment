@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1174-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1757-recyclable-and-low-fat-products) |
 ## Counting
