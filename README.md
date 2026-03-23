@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
