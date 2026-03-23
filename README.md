@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3650-minimum-cost-path-with-edge-reversals) |
