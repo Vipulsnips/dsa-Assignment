@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0696-count-binary-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0068-text-justification) |
 | [0874-walking-robot-simulation](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1545-find-kth-bit-in-nth-binary-string) |
