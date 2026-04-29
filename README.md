@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3379-transformed-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3640-trionic-array-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1975-maximum-matrix-sum) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Tree
 |  |
