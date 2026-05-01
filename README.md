@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
+| [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0874-walking-robot-simulation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1266-minimum-time-visiting-all-points) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
+| [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
