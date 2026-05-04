@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
