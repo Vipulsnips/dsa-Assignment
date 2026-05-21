@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Enumeration
 |  |
 | ------- |
