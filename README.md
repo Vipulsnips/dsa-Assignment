@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
