@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
