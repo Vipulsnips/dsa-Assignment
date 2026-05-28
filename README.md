@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
 | [0696-count-binary-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1980-find-unique-binary-string) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
