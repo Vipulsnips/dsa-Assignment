@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Greedy
 |  |
