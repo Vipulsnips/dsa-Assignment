@@ -21,13 +21,10 @@ public:
         }
         vector<bool>visited(1e5+5,0); 
         dfs(adj,visited,1,0);
-        cout<<path<<endl;
-        vector<int> dpe(path,0),dpo(path,0);
-        dpe[0]=1;dpo[0]=1;
+        long long ans=1;
         for(int i=1;i<path;i++){
-            dpo[i]=(dpe[i-1]+dpo[i-1])%MOD;
-            dpe[i]=(dpe[i-1]+dpo[i-1])%MOD;
+            ans = (ans*2)%MOD;
         }
-        return dpo[path-1];
+        return ans;
     }
 };
