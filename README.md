@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Tree
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
