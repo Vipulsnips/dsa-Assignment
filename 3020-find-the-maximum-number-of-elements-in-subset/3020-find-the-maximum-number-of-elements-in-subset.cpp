@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumLength(vector<int>& nums) {
         int n = 1e9;
-        map<int,long long> mp;
+        unordered_map<int,long long> mp;
         for(auto i:nums) mp[i]++;
         vector<bool> visited(1e5+5,false);
         long long ans=1;
