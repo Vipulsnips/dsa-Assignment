@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3074-apple-redistribution-into-boxes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3713-longest-balanced-substring-i) |
 ## Topological Sort
 |  |
