@@ -1,64 +1,31 @@
 class Solution {
 public:
-    int MOD = 1e9+7;
-    typedef long long ll;
+    const int MOD=1e9+7;
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        int n = s.length();
-        vector<int> nonZeroCount(n, 0);
-        vector<ll> numberUpTo(n, 0); 
-        vector<ll> digitSumUpTo(n, 0);  
-        vector<ll> pow10(n + 1, 0); 
-
-        pow10[0] = 1;
-        for (int i = 1; i <= n; i++)
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
-
-
-        nonZeroCount[0]      = (s[0] != '0') ? 1 : 0;
-        numberUpTo[0]   = s[0] - '0';
-        digitSumUpTo[0] = s[0] - '0';
-
-        for (int i = 1; i < n; i++) {
-            int digit = s[i] - '0';
-            nonZeroCount[i] = nonZeroCount[i - 1] + (digit != 0 ? 1 : 0);
+        int m=s.size();
+        vector<long long> pre(m,0),nonzero(m,0),sum(m,0),pow10(m+1);
+        pow10[0]=1;
+        for(int i=1;i<=m;i++) pow10[i]=(pow10[i-1]*10)%MOD;
+        pre[0]=s[0]-'0';nonzero[0]=(pre[0]==0)?0:1;sum[0]=s[0]-'0';
+        for(int i=1;i<m;i++){
+            if(s[i]=='0') pre[i]=pre[i-1];
+            else pre[i]=((pre[i-1]*10)%MOD+(s[i]-'0'))%MOD;
+            nonzero[i] = nonzero[i-1] + (s[i] != '0');
+            sum[i]+=sum[i-1]+(s[i]-'0');
         }
-
-        for (int i = 1; i < n; i++) {
-            int digit = s[i] - '0';
-            if (digit != 0)
-                numberUpTo[i] = (numberUpTo[i - 1] * 10 + digit) % MOD;
-            else
-                numberUpTo[i] = numberUpTo[i - 1];
-        }
-
-        for (int i = 1; i < n; i++) {
-            digitSumUpTo[i] = digitSumUpTo[i - 1] + (s[i] - '0');
-        }
-
-        int q = queries.size();
-        vector<int> result(q);
-
-        for (int i = 0; i < q; i++) {
-            int l  = queries[i][0];
-            int r = queries[i][1];
-
-            int startCount = (l == 0) ? 0 : nonZeroCount[l - 1];
-            ll numBefore   = (l == 0) ? 0 : numberUpTo[l - 1];
-
-            int endCount = nonZeroCount[r];
-            int subStrLen = endCount - startCount;
-
-            if (subStrLen == 0) {
-                result[i] = 0;
+        vector<int> ans;
+        for(auto i:queries){
+            long long a=(i[0]==0)?0:pre[i[0]-1],b=pre[i[1]];
+            int cnt1=(i[0]==0)?0:nonzero[i[0]-1],cnt2=nonzero[i[1]];
+            int x=cnt2-cnt1;
+            if(x==0){
+                ans.push_back(0);
                 continue;
             }
-
-            ll x   = (numberUpTo[r] - (numBefore * pow10[subStrLen] % MOD) + MOD) % MOD;
-            ll sum = digitSumUpTo[r] - ((l == 0) ? 0 : digitSumUpTo[l - 1]);
-
-            result[i] = (int)((x * sum) % MOD);
+            long long val=(b-(a*pow10[x])%MOD + MOD)%MOD;
+            long long add=sum[i[1]]-((i[0]==0)?0:sum[i[0]-1]);
+            ans.push_back(((val)%MOD*(add)%MOD)%MOD);
         }
-
-        return result;
+        return ans;
     }
 };
