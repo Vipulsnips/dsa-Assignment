@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3379-transformed-array) |
 | [3454-separate-squares-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3488-closest-equal-element-queries) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -691,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0208-implement-trie-prefix-tree) |
 | [2069-walking-robot-simulation-ii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2069-walking-robot-simulation-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
