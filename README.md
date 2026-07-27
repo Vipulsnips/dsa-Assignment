@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
