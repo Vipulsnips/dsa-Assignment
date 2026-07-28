@@ -2,7 +2,7 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         sort(s.begin(),s.end());
-        string ans;int n=s.size();
+        string ans;int n=s.size();ans.reserve(n);
         if(n&1){
             char mid='Z';int id=-1;
             for(int i=0;i<n;i+=2){
@@ -18,7 +18,6 @@ public:
                 }
             }
             s.erase(id,1);
-            sort(s.begin(),s.end());
             for(int i=0;i<n-1;i+=2){
                 ans+=s[i];
             }
