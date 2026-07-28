@@ -1,39 +1,20 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        sort(s.begin(),s.end());
-        string ans;int n=s.size();ans.reserve(n);
-        if(n&1){
-            char mid='Z';int id=-1;
-            for(int i=0;i<n;i+=2){
-                if(i==n-1 && mid=='Z') {
-                    mid=s[i];
-                    id=i;
-                    break;
-                }
-                else if(s[i]!=s[i+1]){
-                    mid=s[i];
-                    id=i;
-                    break;
-                }
-            }
-            s.erase(id,1);
-            for(int i=0;i<n-1;i+=2){
-                ans+=s[i];
-            }
-            ans+=mid;
-            for(int i=n-2;i>=0;i-=2){
-                ans+=s[i];
-            }
+        vector<int> cnt(26, 0);
+        for (char c : s)
+            cnt[c - 'a']++;
+
+        string left, mid = "";
+        left.reserve(s.size() / 2);
+        for (int i = 0; i < 26; i++) {
+            left.append(cnt[i] / 2, char('a' + i));
+            if (cnt[i] % 2)
+                mid.push_back(char('a' + i));
         }
-        else{
-            for(int i=0;i<n;i+=2){
-                ans+=s[i];
-            }
-            for(int i=n-2;i>=0;i-=2){
-                ans+=s[i];
-            }
-        }
-        return ans;
+        string right = left;
+        reverse(right.begin(), right.end());
+
+        return left + mid + right;
     }
 };
