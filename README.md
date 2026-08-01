@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0788-rotated-digits) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0790-domino-and-tromino-tiling) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Doubly-Linked List
 |  |
@@ -744,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
