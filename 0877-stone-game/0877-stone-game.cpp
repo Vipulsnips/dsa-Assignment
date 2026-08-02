@@ -15,7 +15,7 @@ public:
                 f=nums[en]+p2.first;
                 s=p2.second;
             }
-            return {f,s};
+            return dp[st][en][turn]={f,s};
         }
         else{
             pair<int,int> p1=solve(nums,st+1,en,1);
