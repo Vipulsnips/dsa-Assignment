@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1390-four-divisors) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1871-jump-game-vii) |
@@ -771,13 +775,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
