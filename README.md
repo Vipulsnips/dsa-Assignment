@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -777,14 +779,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
