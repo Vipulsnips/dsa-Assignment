@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String Matching
 |  |
@@ -826,4 +830,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
