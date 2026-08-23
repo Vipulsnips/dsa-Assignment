@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1927-sum-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
