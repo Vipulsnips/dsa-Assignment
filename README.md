@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1140-stone-game-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1301-number-of-paths-with-max-score) |
