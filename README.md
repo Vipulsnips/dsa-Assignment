@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2833-furthest-point-from-origin) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2126-destroying-asteroids) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3534-path-existence-queries-in-a-graph-ii) |
