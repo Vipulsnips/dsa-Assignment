@@ -7,20 +7,21 @@ public:
             c[s[i]-'a'].first=min(c[s[i]-'a'].first,i);
             c[s[i]-'a'].second=max(c[s[i]-'a'].second,i);
         }
-        unordered_map<char,vector<char>> adj;
+        unordered_map<char,set<char>> adj;
         for(int i=0;i<26;i++){
             for(int j=c[i].first;j<=c[i].second;j++){
-                if(s[j]!=char('a'+i)) adj['a'+i].push_back(s[j]);
+                if(s[j]!=char('a'+i)) adj['a'+i].insert(s[j]);
             }
         }
         // making subarray
         set<pair<long long,long long>> st; //first val is size of subarray and 2nd is the first index of starting
+        vector<int> visited;
         for(int i=0;i<26;i++){
             if(c[i].first == INT_MAX) continue;
             //bfs
             int minm=INT_MAX,maxm=INT_MIN;
             queue<char>q;q.push(char('a'+i));
-            vector<int> visited(26,0);visited[i]=1;
+            visited.assign(26,0);visited[i]=1;
             while(!q.empty()){
                 auto curr=q.front();q.pop();
                 // cout<<curr<<endl;
@@ -35,7 +36,7 @@ public:
             }
             st.insert({maxm-minm+1,minm});
         }
-        vector<string>ans;vector<int> visited(n,0);set<pair<int,int>> taken;
+        vector<string>ans;visited.assign(n,0);
         for(auto i:st){
             int ind=i.second,sz=i.first;
             int flg=1;
