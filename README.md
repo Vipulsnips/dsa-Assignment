@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0068-text-justification) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1096-brace-expansion-ii) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
