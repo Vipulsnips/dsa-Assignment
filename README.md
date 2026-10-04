@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0790-domino-and-tromino-tiling) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0678-valid-parenthesis-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1382-balance-a-binary-search-tree) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -952,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
