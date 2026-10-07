@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Vipulsnips/dsa-Assignment/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1096-brace-expansion-ii) |
