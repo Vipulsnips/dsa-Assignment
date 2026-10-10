@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2498-frog-jump-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2498-frog-jump-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2126-destroying-asteroids) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2126-destroying-asteroids) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2054-two-best-non-overlapping-events) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-frog-jump-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2540-minimum-common-value) |
 | [3454-separate-squares-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3454-separate-squares-ii) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2054-two-best-non-overlapping-events) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
