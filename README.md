@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3783-mirror-distance-of-an-integer) |
