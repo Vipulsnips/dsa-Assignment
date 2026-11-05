@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0696-count-binary-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1877-minimize-maximum-pair-sum-in-array) |
