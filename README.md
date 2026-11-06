@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3379-transformed-array) |
 | [3454-separate-squares-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
@@ -638,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3620-network-recovery-pathways) |
