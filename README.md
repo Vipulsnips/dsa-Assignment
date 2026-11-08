@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1340-jump-game-v) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1382-balance-a-binary-search-tree) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1631-path-with-minimum-effort) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1584-min-cost-to-connect-all-points) |
@@ -951,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vipulsnips/dsa-Assignment/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2833-furthest-point-from-origin) |
