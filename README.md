@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3660-jump-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vipulsnips/dsa-Assignment/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3719-longest-balanced-subarray-i) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
