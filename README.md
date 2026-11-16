@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/Vipulsnips/dsa-Assignment/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vipulsnips/Swayam-Assignment/tree/master/3069-distribute-elements-into-two-arrays-i) |
